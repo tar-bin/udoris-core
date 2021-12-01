@@ -1,6 +1,6 @@
 # udoris-core
 
-Udoris unity project excluding paid assets
+Udoris unity project excluding paid assets  
 https://vrchat.com/home/launch?worldId=wrld_c9135512-eded-4272-bf0c-b8afc51b9629
 
 ## How to use
